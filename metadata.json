@@ -1,0 +1,6 @@
+{
+  "name": "GST Practice Portal – Learn & Practice GST",
+  "description": "Educational GST Portal Simulator for students and accountants to practice GST registration, GSTR-1, GSTR-3B, GSTR-2B reconciliation, ledgers, and return filing in a safe sandbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
